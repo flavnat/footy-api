@@ -1,0 +1,5 @@
+{
+  "signal": "SIGTERM",
+  "ext": "ts",
+  "exec": "ts-node src/app.ts"
+}
